@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whatup9911
+- 👋 Hi, I’m @austinmalmin
 - 👀 I’m interested in software development and Machine Learning
 - 🌱 I’m currently completing my masters degree at Northern Arizona University with an expected graduation date of May 2023
 - 📫 How to reach me:
